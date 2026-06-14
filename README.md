@@ -22,7 +22,7 @@ Category Trend Analysis: A dynamic breakdown showing performance changes ($\Delt
 Granular Filters: Slicers by geographical region (e.g., GR/Greece), customer tier (Key Accounts vs. Traditional Trade/Others), and store channel (Bakery, Gas Station, Kiosk, etc.) allow for instant root-cause analysis.
 
 2. **Customer Audit & Shelf Availability**
-![Dashboard Screenshot](Overview.png)
+![Dashboard Screenshot](Customers.png)
 
 A highly tactical sheet designed for field supervisors to audit individual stores, cooler presence, and precise product lineups.
 
